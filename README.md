@@ -2,6 +2,7 @@
 Projects made by the core team members, if you are new here u can either:
 - Start with looking for projects that interest u and solve issues or add features with tag **good first issue**
 - Add your project to this list and create a repository for it
+Make sure you have the listed pre-requesits, if you don't request issues from the project maker that are simple to contribute to.  
   
 If you have any questions contact the Tech Projects Lead on whatsapp: +97450699303  
 
