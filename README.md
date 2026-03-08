@@ -1,0 +1,14 @@
+# ACM Projects List
+Projects made by the core team members, if you are new here u can either:
+- Start with looking for projects that interest u and solve issues or add features with tag **good first issue**
+- Add your project to this list and create a repository for it
+  
+If you have any questions contact the Tech Projects Lead on whatsapp: +97450699303  
+
+## ACM Projects
+- [EnhancedCSEWiki](csewiki.netlify.app): by Cancelled, contributors: Abdelhakim. _Status: DONE & Maintained_
+- [ACM Landing Page](qu.acm.org):  by Abdelhakim, Subzi, Al-Ansary, Mariam. _Status: DONE & Maintained_
+- Better Banner Extension: by Abdelhakim. _Status: UNDER DEVELOPMENT_
+  
+## Personal Projects/Uni Projects
+- [Better QU Schedule](better-qu-schedule.netlify.app): by Abdelhakim
