@@ -12,5 +12,5 @@ If you have any questions contact the Tech Projects Lead on whatsapp: +974506993
 - [Better Banner Extension](https://github.com/acm-qu/better-banner-ui): by Abdelhakim. _Status: UNDER DEVELOPMENT_
 - [ACM Discord Bot](https://github.com/acm-qu/acm-discord-bot): Ideated by Abdelhakim, no major contributions yet. _Status: UNDER DEVELOPMENT_
   
-## Personal Projects/Uni Projects from the Tech Team
-- [Better QU Schedule](https://better-qu-schedule.netlify.app): by Abdelhakim
+## SDPs from current and previous Tech Team Members
+
