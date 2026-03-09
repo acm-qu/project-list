@@ -12,8 +12,8 @@ If you have any questions contact the Tech Projects Lead on whatsapp: +974506993
 - AWAITING DEVELOPER: Only the idea is proposed, no active developer is assigned for the project
 
 ## ACM Projects
-- [EnhancedCSEWiki](https://github.com/acm-qu/Enhanced-CSE): by Cancelled, contributors: Abdelhakim. _Status: DONE & Maintained_
-- [ACM Landing Page](https://github.com/acm-qu/ACM-Landing-Page):  by Abdelhakim, Subzi, Al-Ansary, Mariam. _Status: DONE & Maintained_
+- [EnhancedCSEWiki](https://github.com/acm-qu/Enhanced-CSE): by Cancelled, contributors: Abdelhakim. _Status: DONE & MAINTAINED_
+- [ACM Landing Page](https://github.com/acm-qu/ACM-Landing-Page):  by Abdelhakim, Subzi, Al-Ansary, Mariam. _Status: DONE & MAINTAINED_
 - [Better Banner Extension](https://github.com/acm-qu/better-banner-ui): by Abdelhakim. _Status: UNDER DEVELOPMENT_
 - [ACM Discord Bot](https://github.com/acm-qu/acm-discord-bot): Ideated by Abdelhakim, no major contributions yet. _Status: AWAITING DEVELOPER_
   
